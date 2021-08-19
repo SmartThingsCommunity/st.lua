@@ -20,7 +20,7 @@ dependencies = {
   "dkjson",
   "logface",
   "luasocket >= 3.0-rc1",
-  "LuaSec >= 1.0",
+  "luasec >= 1.0",
   "lua-yaml",
   "luxure",
   "lifter_puller",
