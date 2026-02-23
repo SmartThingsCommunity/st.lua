@@ -1,7 +1,8 @@
 package = "st"
-version = "0.0-1"
+version = "0.0-2"
 source = {
-  url = "https://github.com/SmartThingsCommunity/st.lua"
+  url = "git+https://github.com/SmartThingsCommunity/st.lua.git",
+  tag = "v0.0-2"
 }
 description = {
   summary = "",
